@@ -1,0 +1,124 @@
+.border_style1 p {
+    border-width: 15px;
+    background-color: yellowgreen;
+    padding: 20px;
+    margin: 20px;
+}
+
+.none {
+    border-style: none;
+}
+
+.hidden {
+    border-style: hidden;
+}
+
+.dotted {
+    border-style: dotted;
+}
+
+.dashed {
+    border-style: dashed;
+}
+
+.solid {
+    border-style: solid;
+}
+
+.double {
+    border-style: double;
+}
+
+.inset {
+    border-style: inset;
+}
+
+.outset {
+    border-style: outset;
+}
+
+.groove {
+    border-style: groove;
+}
+
+.ridge {
+    border-style: ridge;
+}
+
+.border_style2 p {
+    border-style: solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+p.one{
+    border-width: 5px;
+}
+
+p.two{
+    border-width: 5px 10px;
+}
+
+p.three{
+    border-width: 5px 10px 15px;
+}
+
+p.four{
+    border-width: 5px 10px 15px 20px;
+}
+
+p.five{
+    border-width: medium 10px thick 15px;
+}
+
+
+
+.border_style3 p {
+    border-width: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+
+p.six{
+    border-style: solid;
+    border-color: #ff0000;
+}
+
+p.seven{
+    border-style: solid;
+    border-color: #ff0000 #fbff00;
+}
+
+p.eight{
+    border-style: solid;
+    border-color: #ff0000 #fbff00  #00ff0d;
+}
+
+p.nine{
+    border-style: solid;
+    border-color: #ff0000 #fbff00  #00ff0d  #00d9ff;
+}
+
+.border_style4 p {
+
+    border: 5px solid #fbff00;
+    background: #ff0000;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+.border_style5 p {
+    color:red;
+    border: 5px solid;
+    background: #eeff00;
+    padding: 20px;
+    margin: 20px;
+}
+
+.border_style6 p {
+    border: 5px #ff0000;
+    background: #eeff00;
+    padding: 20px;
+    margin: 20px;
+}
